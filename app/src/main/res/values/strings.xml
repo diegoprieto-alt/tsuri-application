@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tsuri-app</string>
+    <string name="japan">JAPAN</string>
+    <string name="japan_info">Visit the millenial culture country and third main economy of the world.</string>
+    <string name="basic_information">Basic information</string>
+    <string name="population">Population</string>
+    <string name="temperature">Temperature</string>
+    <string name="population_number">126.3 million</string>
+    <string name="temperature_number">16°C</string>
+    <string name="main_places_title">Main places to visit</string>
+    <string name="main_places">Imperial tokyo \n Mount Fuji \n Osaka Castle \n The Atsuta Hrine</string>
+    <string name="more">More</string>
+</resources>
