@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tsuri</string>
+    <string name="text1">tourist in japan enjoying urban art and technology</string>
+    <string name="todo">TODO</string>
+    <string name="tsuri">Tsuri</string>
+    <string name="tourist_in_japan_enjoying_urban_art_and_technology">tourist in japan enjoying urban art and technology</string>
+    <string name="urban_culture">Urban culture</string>
+    <string name="graffiti_art">Graffiti Art</string>
+    <string name="music">Music</string>
+    <string name="nights_in_the_district">Nights in the district</string>
+    <string name="night">Neon beats the beat in the metropolis and the city kicks in As the sun goes down, the neon lights come to life and Tokyo\'s nightly alter ego kicks in. More laid-back and carefree than its busy and conformist daytime counterpart, the evening is the time to relax and enjoy. From the bright lights and bustle of Shibuya and the elegant skyscrapers and glamorous allure of the Marunouchi and Ginza neighborhoods, to night-time art galleries, lively izakaya, exquisite dining and outdoor events, Tokyo\'s nightlife is much more than just pubs and clubs, although it also has many of these. app:layout_constraintEnd_toEndOf=</string>
+    <string name="temperatura_22_c">temperatura 22°C</string>
+</resources>
