@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tsuri</string>
+    <string name="temperature">Temperatura: </string>
+    <string name="Title">Japón</string>
+    <string name="location">Ubicación</string>
+    <string name="clima">El clima en Japón es muy variable dependiendo de la época del año y d
+        e la zona en la que te encuentres. En Japón se distinguen cuatro estaciones,
+        igual que en los países occidentales: invierno (de diciembre a febrero),
+        primavera (de marzo a mayo), verano (de junio a agosto) y otoño (de septiembre a noviembre).</string>
+    <string name="locDescription">El territorio japonés está situado en la región denominada
+        Noreste de Asia o Este de Asia, al este del continente euroasiático.
+        Está rodeado por el Océano Pacífico, el Mar de Okhotsk, el Mar de Japón
+        y el Mar de China Oriental.</string>
+    <string name="POI">Sitios de Interes</string>
+    <string name="POIDescripTion">El turismo en Japón es uno de los mejores en el continente asiático.
+        Sin duda, es un destino predilecto por los viajeros en cualquier época del año porque es un país
+        que regala contrastes, colores, magia, misticismo y espiritualidad. Pero al mismo tiempo,
+        puedes disfrutas de un espacio moderno lleno de innovación tecnológica.
+        Que ver en Japón: El estanque azul, Bosque de bambu de Sagano, Volcán Aogashima,
+        Monte Koya, Isla Shikoku, Jardón Kenrokuen, Castillo de matsumoto,Cascada Nachi,
+        Península de Noto, Valle de Kiso, Shososhima, entre muchos otros lugares.</string>
+
+    <string name="action_settings">Configuraciones</string>
+    <string name="poi_thumb">Poi Thubmnail Picture</string>
+    <string name="action_clear">Limpiar</string>
+    <string name="new_poi">Nuevo POI</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="poi_not_valid">Please enter valid poi information</string>
+    <string name="action_generate">Generar</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="punctuation">Puntuación</string>
+    <string name="Edit">Editar</string>
+    <string name="action_sort_name">Ordenar por Nombre</string>
+    <string name="action_sort_punctuation">Ordenar por puntuación</string>
+</resources>
