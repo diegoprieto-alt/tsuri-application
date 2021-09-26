@@ -103,6 +103,7 @@
         android:layout_width="105dp"
         android:layout_height="44dp"
         android:layout_marginTop="24dp"
+        android:onClick="sendMessage"
         android:text="@string/more"
         android:textSize="15sp"
         app:layout_constraintBottom_toBottomOf="parent"
