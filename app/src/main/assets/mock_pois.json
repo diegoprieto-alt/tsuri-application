@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Shibuya",
+    "description": "El famoso cruce de Shibuya es sin duda una de las imágenes más icónicas de Tokio.",
+    "punctuation": "68",
+    "image":"shibuya"
+  },
+  {
+    "name": "Naoshima",
+    "description": "Naoshima es una pequeña isla del Mar Interior de Seto que forma parte de la Prefectura de Kanagawa.",
+    "punctuation": "90",
+    "image":"naoshima"
+  },
+  {
+    "name": "Asakusa",
+    "description": "Esta área de Tokio es conocida sobre todo por ser la principal zona cultural de la ciudad.",
+    "punctuation": "50",
+    "image":"asakusa"
+  },
+  {
+    "name": "Akihabara",
+    "description": "¡Atención frikis! Akihabara se ha ganado a pulso el título de capital mundial de los frikis.",
+    "punctuation": "43",
+    "image":"akihabara"
+  },
+  {
+    "name": "Odaiba",
+    "description": "Odaiba es una gran isla artificial situada en la Bahía de Tokio, justo al otro lado del Rainbow Bridge.",
+    "punctuation": "25",
+    "image":"odaiba"
+  },
+  {
+    "name": "Kabukicho",
+    "description": "hinjuku es un barrio famoso por sus abrumadoras luces de neón. Y muestra de ello es la zona de Kabukicho, cuyo nombre proviene del teatro Kabuki que se erigió en las inmediaciones tras las devastadoras consecuencias de la Segunda Guerra Mundial.",
+    "punctuation": "88",
+    "image":"kabukicho"
+  },
+  {
+    "name": "Parque de Ueno",
+    "description": "Si no te vas a quedar mucho tiempo en Japón, probablemente el mejor lugar al que puedes ir es el Parque de Ueno.",
+    "punctuation": "33",
+    "image":"parquedeueno"
+  },
+  {
+    "name": "Yokohama",
+    "description": "A pesar de que la vecina sur de Tokio no es precisamente una desconocida, no deja de ser sorprendente que muchos visitantes la pasen por alto cuando vienen a Japón. ",
+    "punctuation": "95",
+    "image":"yokohama"
+  },
+  {
+    "name": "Nikko",
+    "description": "Enclavado junto a las montañas de la Prefectura de Tochigi se encuentra Nikko, uno de los lugares de interés cultural más importantes del este de Japón. La principal atracción de la ciudad es el Santuario Toshogu, donde reposan los restos mortales de Tokugawa Ieyasu, el legendario fundador del shogunato Tokugawa. ",
+    "punctuation": "48",
+    "image":"nikko"
+  },
+  {
+    "name": "Parque de Hitsujiyama",
+    "description": "Japón es conocido por sus cerezos en flor, así que una de las cosas imprescindibles que debes hacer en el país es visitarlo en la época de la floración.",
+    "punctuation": "26",
+    "image":"parquedehitsujiyama"
+  },
+  {
+    "name": "Tohoku",
+    "description": "Tohoku es un término colectivo usado para describir la parte norte de la isla principal de Japón.",
+    "punctuation": "81",
+    "image":"tohoku"
+  },
+  {
+    "name": "Kawagoe",
+    "description": "Casi podríamos decir que el templo Kita-in, situado a tan solo 45 minutos al noroeste de Tokio, ¡es como una máquina del tiempo moderna! ",
+    "punctuation": "96",
+    "image":"kawagoe"
+  },
+  {
+    "name": "Kamakura",
+    "description": "La localidad costera de Kamakura fue en su día la capital militar de Japón y responsable en gran medida del nacimiento de la cultura samurái tal y como la conocemos hoy en día. ",
+    "punctuation": "36",
+    "image":"kamakura"
+  },
+  {
+    "name": "Hakone",
+    "description": "Si el tiempo está de tu lado, Hakone es un destino popular desde el que podrás disfrutar de unas vistas estupendas del Monte Fuji.",
+    "punctuation": "85",
+    "image":"hakone"
+  },
+  {
+    "name": "Monte Fuji",
+    "description": "En los últimos años el volcán activo más grande de Japón ha atraído a gente de todas partes del mundo que quería alcanzar su cima. La temporada de ascensos al Monte Fuji comienza oficialmente en verano",
+    "punctuation": "62",
+    "image":"montefuji"
+  },
+  {
+    "name": "Nagoya",
+    "description": "Nagoya es la ciudad más grande del centro de Japón y, sin embargo, muchos viajeros la consideran otro punto más en la ruta de Tokio a Kioto.",
+    "punctuation": "45",
+    "image":"nagoya"
+  },
+  {
+    "name": "Kanazawa",
+    "description": "No es ningún secreto que Kioto se ha convertido en uno de los destinos más populares del planeta, pero por otra parte, esta fama ha hecho que la ciudad se llene de turistas. ",
+    "punctuation": "63",
+    "image":"kanazawa"
+  },
+  {
+    "name": "Shirakawago",
+    "description": "Shirakawago es unñ.- pequeño pueblo situado en uno de los muchos valles de la Prefectura de Gifu.",
+    "punctuation": "63",
+    "image":"shirakawago"
+  },
+  {
+    "name": "El Valle de Kiso",
+    "description": "El Valle de Kiso, hoy en día situado lejos de las principales rutas, fue en su día una de las vías de comercio más importantes (¡ironías de la vida!).",
+    "punctuation": "45",
+    "image":"elvalledekiso"
+  },
+  {
+    "name": "Este de Kyoto",
+    "description": "Kioto cada vez atrae a más y más gente, pero no hay duda de que sigue siendo uno de los mejores lugares que visitar en Japón para conocer a fondo su cultura.",
+    "punctuation": "34",
+    "image":"estedekyoto"
+  }
+]
