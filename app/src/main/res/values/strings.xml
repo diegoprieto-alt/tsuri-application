@@ -62,4 +62,11 @@
     <string name="settings">Settings</string>
     <string name="pois">list of points of interest</string>
     <string name="Details">Go to details</string>
+    <string name="authorizations">Autorizaciones</string>
+    <string name="preferences">Preferencias</string>
+    <string name="notificaciones">Autorizar notificaciones</string>
+    <string name="sonidos">Autorizar sonidos</string>
+    <string name="notificaciones_summary">autorizar las notificaciones de la aplicación</string>
+    <string name="sonidos_summary">autorizar los sonidos de la aplicación</string>
+    <string name="title_activity_settings">SettingsActivity</string>
 </resources>

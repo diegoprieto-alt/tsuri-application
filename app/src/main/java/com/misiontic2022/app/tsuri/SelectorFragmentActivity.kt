@@ -20,4 +20,8 @@ class SelectorFragmentActivity : AppCompatActivity() {
         val intent = Intent(this, MainActivityInit::class.java)
         startActivity(intent)
     }
+    fun clickSettings(view: View){
+        val intent = Intent(this, PreferencesActivity::class.java)
+        startActivity(intent)
+    }
 }
