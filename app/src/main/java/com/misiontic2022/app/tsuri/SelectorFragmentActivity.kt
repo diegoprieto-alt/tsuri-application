@@ -15,4 +15,9 @@ class SelectorFragmentActivity : AppCompatActivity() {
         val intent = Intent(this, MainActivity::class.java)
         startActivity(intent)
     }
+
+    fun clickDetail(view: View){
+        val intent = Intent(this, MainActivityInit::class.java)
+        startActivity(intent)
+    }
 }
