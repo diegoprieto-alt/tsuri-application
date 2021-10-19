@@ -21,7 +21,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView2"
-        android:name="com.misiontic2022.app.tsuri.PoiFragment"
+        android:name="com.misiontic2022.app.tsuri.PoiFragmentPre"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:layout_margin="24dp"

@@ -20,73 +20,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        recycler = findViewById(R.id.poi_list)
-        setupRecyclerView()
-        generatePois()
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.container, PoiFragment2.newInstance())
+            .commitNow()
     }
 
-    /**
-     * Sets up the RecyclerView: empty data set, item dividers, swipe to delete.
-     */
-    private fun setupRecyclerView() {
-        mPois = arrayListOf()
-        recycler.addItemDecoration(
-            DividerItemDecoration(
-                this,
-                DividerItemDecoration.VERTICAL
-            )
-        )
-        mAdapter = PoisAdapter(mPois)
-        recycler.adapter = mAdapter
-    }
-
-    /**
-     * Generates mock contact data to populate the UI from a JSON file in the
-     * assets directory, called from the options menu.
-     */
-    private fun generatePois() {
-        val poisString = readPoiJsonFile()
-        try {
-            val poisJson = JSONArray(poisString)
-            for (i in 0 until poisJson.length()) {
-                val poiJson = poisJson.getJSONObject(i)
-                val poi = Poi(
-                    poiJson.getString("name"),
-                    poiJson.getString("description"),
-                    poiJson.getString("punctuation"),
-                    poiJson.getString("image")
-                )
-                Log.d(TAG, "generatePois: $poi")
-                mPois.add(poi)
-            }
-
-            mAdapter.notifyDataSetChanged()
-        } catch (e: JSONException) {
-            e.printStackTrace()
-        }
-    }
-
-    /**
-     * Reads a file from the assets directory and returns it as a string.
-     *
-     * @return The resulting string.
-     */
-    private fun readPoiJsonFile(): String? {
-        var poisString: String? = null
-        try {
-            val inputStream = assets.open("mock_pois.json")
-            val size = inputStream.available()
-            val buffer = ByteArray(size)
-            inputStream.read(buffer)
-            inputStream.close()
-
-            poisString = String(buffer)
-        } catch (e: IOException) {
-            e.printStackTrace()
-        }
-
-        return poisString
-    }
 
     companion object {
         private val TAG = MainActivity::class.java.simpleName
